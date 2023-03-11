@@ -144,6 +144,12 @@ body {
 	}
 }
 
+@media(max-width: 1200px) {
+	.attribution {
+		display: none;
+	}
+}
+
 @media (min-width: 576px) {
 	.main {
 		display: flex;
