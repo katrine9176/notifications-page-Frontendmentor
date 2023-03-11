@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/katrine9176/notifications-page-Frontendmentor)
+- Live Site URL: [Live]( https://katrine9176.github.io/notifications-page-Frontendmentor/)
 
 ## My process
 
